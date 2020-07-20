@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/afBesco1"/>
+    <filter root="/content/afBesco1"/>
+    <filter root="/content/dam/afBesco1"/>
+    <filter root="/content/dam/formsanddocuments/afbescodamforms"/>
+    <filter root="/content/forms/af/afbescodamforms"/>
+</workspaceFilter>
